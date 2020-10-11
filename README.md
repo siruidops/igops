@@ -1,8 +1,6 @@
 # IG OPS
 
 <p>This application is a Information Gathering Toolkit</p>
-<p>This Script Tested On Linux (Kali Linux, Debian, ...) </p>
-<p>This Script Powered By Python Version 2.7</p>
 
 [Follow My Friend In Telegram Channel](https://t.me/softhacking)
 
@@ -16,8 +14,8 @@
                        _/           _/ version 1.0
                  _/_/_/_/          _/
 
-Developer: sir uidops
-E-mail   : sir.u1d0p5@gmail.com
+Developer: uidops
+E-mail   : uidopsu@gmail.com
 Github   : https://github.com/siruidops/igops/
 
         Usage: ./igops.py [Options]
