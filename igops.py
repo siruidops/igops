@@ -1,25 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
-# Tested on Linux ( Kali Linux , Debian )
 
-##               In The Name Of God                  ##
 #                                                     #
 # Subject  : Robots Analyze                           #
 # Time     : 2018-02-05 20:48                         #
-# Developer: Sir uidops                               #
-# Email    : Sir.u1d0p5@gmail.com                     #
-# Telegram : https://t.me/Sir_uidops                  #
-# Github   : https://github.com/siruidops/              #
-#
-##         Copy Right For Me (Sir Uidops)            ##
+# Developer: uidops                                   #
+# Email    : uidopsu@gmail.com                        #
+# Telegram : https://t.me/orouj                       #
+# Github   : https://github.com/siruidops/            #
 
-# for errors in this script and help 
-#    please send a message for me
-#
-# Email    : Sir.u1d0p5@gmail.com
-# Telegram : https://t.me/Sir_uidops
-#
 
 red="\033[0;31m"
 green="\033[0;32m"
@@ -30,8 +20,8 @@ tur="\033[0;36m"
 yellow="\033[1;33m"
 end="\033[1;37m"
 
-info = {'dev'   :'sir uidops',
-		'email' :'sir.u1d0p5@gmail.com',
+info = {'dev'   :'uidops',
+		'email' :'uidopsu@gmail.com',
 		'github':'https://github.com/siruidops/igops/'
 }
 
